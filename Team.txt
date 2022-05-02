@@ -1,0 +1,13 @@
+Team:
+
+1.KL Rahul
+2.Ruturaj Gaikwad
+3.Virat Kohli
+4.Shreyas Iyer
+5.Shivam Dube
+6.Rishab Pant
+7.Hardik Pandya
+8.Ravindra Jadeja
+9.Mohammed Shami
+10.Yajuvendra Chahal
+11.Urman Malik

@@ -11,3 +11,5 @@ Team:
 9.Mohammed Shami
 10.Yajuvendra Chahal
 11.Urman Malik
+13.Rahul Tewatia
+14.Dinesh Karthik
